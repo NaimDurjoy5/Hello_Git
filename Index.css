@@ -1,0 +1,10 @@
+/* h1{text-align: center; } */
+
+.dog{text-align: center;}
+
+.p-color{color: darkorange;}
+
+.bg-color{background-color: rgb(65, 211, 231);
+    text-align: center;
+    border: 5px solid;
+}
